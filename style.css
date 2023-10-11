@@ -30,8 +30,6 @@ a:hover {
 .example img {
 	max-width: 80%;
 }
-
-/* apply box-sizing property and padding to every div, for visual spacing */
 div {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
